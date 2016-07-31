@@ -1,7 +1,7 @@
 ## CodeBook
 
 Group.1 was generated from the activities and subjects variables of the dataset. For the activity type, Group.1 can be "laying", "sitting", "standing", "walking", "walking_downstairs", and "walking_upstairs". For the subject type, Group.1 ranges from 1 to 30, which is the number of subjects from the group which the experiment was carried out.
-The other variables are a subset of the 561-feature vector with time and frequency domain variables, where only mean and standard deviations were taken as asked by the instructions for the project.
+The other variables are a subset of the 561-feature vector with time and frequency domain variables, where only mean and standard deviations were taken, as it was asked by the instructions for the project.
 
 
 "Group.1"                     
@@ -70,5 +70,5 @@ The other variables are a subset of the 561-feature vector with time and frequen
 "fBodyBodyAccJerkMag-std()"  
 "fBodyBodyGyroMag-mean()"     
 "fBodyBodyGyroMag-std()"     
-"fBodyBodyGyroJerkMag-mean()" 
+"fBodyBodyGyroJerkMag-mean()"
 "fBodyBodyGyroJerkMag-std()" 
