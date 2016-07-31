@@ -1,4 +1,4 @@
-# PeerGradedProject
+# Readme.md
 
 
 In order to start the project, we want to merge the training and the tests sets to create one data set
